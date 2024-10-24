@@ -29,6 +29,6 @@ node .
 
 📁 Pasta: edit config.js / token & dono
 
-🌐 Canal 🌐
+🌐 Canal 🌐 22222
 
 https://www.youtube.com/channel/UCqwHsH9sVzvpLpSVWNOFUpQ
